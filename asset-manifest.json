@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-editor/static/css/main.75c9dae9.chunk.css",
+    "main.js": "/react-app-editor/static/js/main.8c5fdc93.chunk.js",
+    "main.js.map": "/react-app-editor/static/js/main.8c5fdc93.chunk.js.map",
+    "runtime-main.js": "/react-app-editor/static/js/runtime-main.4f0bef79.js",
+    "runtime-main.js.map": "/react-app-editor/static/js/runtime-main.4f0bef79.js.map",
+    "static/css/2.7fa18b2e.chunk.css": "/react-app-editor/static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.88ddd27c.chunk.js": "/react-app-editor/static/js/2.88ddd27c.chunk.js",
+    "static/js/2.88ddd27c.chunk.js.map": "/react-app-editor/static/js/2.88ddd27c.chunk.js.map",
+    "static/js/3.5f00ed00.chunk.js": "/react-app-editor/static/js/3.5f00ed00.chunk.js",
+    "static/js/3.5f00ed00.chunk.js.map": "/react-app-editor/static/js/3.5f00ed00.chunk.js.map",
+    "index.html": "/react-app-editor/index.html",
+    "static/css/2.7fa18b2e.chunk.css.map": "/react-app-editor/static/css/2.7fa18b2e.chunk.css.map",
+    "static/css/main.75c9dae9.chunk.css.map": "/react-app-editor/static/css/main.75c9dae9.chunk.css.map",
+    "static/js/2.88ddd27c.chunk.js.LICENSE.txt": "/react-app-editor/static/js/2.88ddd27c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f0bef79.js",
+    "static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.88ddd27c.chunk.js",
+    "static/css/main.75c9dae9.chunk.css",
+    "static/js/main.8c5fdc93.chunk.js"
+  ]
+}
